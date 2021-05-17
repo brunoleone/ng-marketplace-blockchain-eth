@@ -21,6 +21,8 @@
     "@angular/platform-browser": "~11.2.13",
     "@angular/platform-browser-dynamic": "~11.2.13",
     "@angular/router": "~11.2.13",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
     "rxjs": "~6.6.0",
     "truffle": "^5.3.6",
     "tslib": "^2.0.0",
